@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.7.5+commit.eb77ed08"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"TONIFYADS/token TONIFYADS.sol": "SafeMath"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"TONIFYADS/token TONIFYADS.sol": {
+			"keccak256": "0x6d16186ec22599ac3516f671f6f36caba7c5e5c3d0df860ab013a25a5d342cac",
+			"license": "AGPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://d1bb354e2e302667633badbddff740741085a5900157f1125a4961a1400941fa",
+				"dweb:/ipfs/QmaWtFUJLEuMyhiK9TSL49HqhNpga9f4WgUnm2LovewTye"
+			]
+		}
+	},
+	"version": 1
+}
